@@ -1,5 +1,6 @@
 👋 Faris Choudhry - UI/UX and Graphic Designer
-Welcome to my Github profile! I am a UI/UX and Graphic Designer with ⌚️ over 10 years of experience in creating visually appealing and user-friendly designs for various digital platforms.
+Welcome to my Github profile! 
+I am a UI/UX and Graphic Designer with ⌚️ over 10 years of experience in creating visually appealing and user-friendly designs for various digital platforms.
 
 What You'll Find Here
 In this Github repository, you'll find a collection of my work and design projects, including:
@@ -21,8 +22,7 @@ I use various design tools and technologies to create my designs, including:
 I'm always open to collaboration opportunities and would love to hear from you. If you have any questions or inquiries, feel free to reach out to me through my contact information below.
 
 Contact Information
-✉️ Email: [insert email address]
-💻 Website: [insert website URL]
-💼 LinkedIn: [insert LinkedIn URL]
-📸 Instagram: [insert Instagram URL]
+✉️ : farisc.designer@gmail.com
+💻 : [insert website URL]
+
 Thank you for visiting my Github profile, and I look forward to connecting with you!
